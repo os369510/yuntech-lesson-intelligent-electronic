@@ -1,0 +1,15 @@
+D:\huh\教學\智慧電子\Body_embedded\Body_embedded\Body_embedded\bin\Debug\Body_embedded.exe
+D:\huh\教學\智慧電子\Body_embedded\Body_embedded\Body_embedded\bin\Debug\Body_embedded.pdb
+D:\huh\教學\智慧電子\Body_embedded\Body_embedded\Body_embedded\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+D:\huh\教學\智慧電子\Body_embedded\Body_embedded\Body_embedded\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\huh\教學\智慧電子\Body_embedded\Body_embedded\Body_embedded\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\huh\教學\智慧電子\Body_embedded\Body_embedded\Body_embedded\obj\x86\Debug\MainWindow.baml
+D:\huh\教學\智慧電子\Body_embedded\Body_embedded\Body_embedded\obj\x86\Debug\MainWindow.g.cs
+D:\huh\教學\智慧電子\Body_embedded\Body_embedded\Body_embedded\obj\x86\Debug\App.g.cs
+D:\huh\教學\智慧電子\Body_embedded\Body_embedded\Body_embedded\obj\x86\Debug\Body_embedded_MarkupCompile.cache
+D:\huh\教學\智慧電子\Body_embedded\Body_embedded\Body_embedded\obj\x86\Debug\Body_embedded.g.resources
+D:\huh\教學\智慧電子\Body_embedded\Body_embedded\Body_embedded\obj\x86\Debug\Body_embedded.Properties.Resources.resources
+D:\huh\教學\智慧電子\Body_embedded\Body_embedded\Body_embedded\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\huh\教學\智慧電子\Body_embedded\Body_embedded\Body_embedded\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\huh\教學\智慧電子\Body_embedded\Body_embedded\Body_embedded\obj\x86\Debug\Body_embedded.exe
+D:\huh\教學\智慧電子\Body_embedded\Body_embedded\Body_embedded\obj\x86\Debug\Body_embedded.pdb

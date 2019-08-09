@@ -1,0 +1,27 @@
+C:\Users\user\AppData\Local\Temporary Projects\Lab4_new_sdk_WF\bin\Release\Lab4_new_sdk_WF.exe
+C:\Users\user\AppData\Local\Temporary Projects\Lab4_new_sdk_WF\bin\Release\Lab4_new_sdk_WF.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Lab4_new_sdk_WF\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\Lab4_new_sdk_WF\obj\x86\Release\Lab4_new_sdk_WF.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\Lab4_new_sdk_WF\obj\x86\Release\Lab4_new_sdk_WF.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Lab4_new_sdk_WF\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\Lab4_new_sdk_WF\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\Lab4_new_sdk_WF\obj\x86\Release\Lab4_new_sdk_WF.exe
+C:\Users\user\AppData\Local\Temporary Projects\Lab4_new_sdk_WF\obj\x86\Release\Lab4_new_sdk_WF.pdb
+D:\huh\教學\101-2\智慧電子\智慧電子\上課講義\Lab4_new_sdk_WF\Lab4_new_sdk_WF\bin\Release\Lab4_new_sdk_WF.exe
+D:\huh\教學\101-2\智慧電子\智慧電子\上課講義\Lab4_new_sdk_WF\Lab4_new_sdk_WF\bin\Release\Lab4_new_sdk_WF.pdb
+D:\huh\教學\101-2\智慧電子\智慧電子\上課講義\Lab4_new_sdk_WF\Lab4_new_sdk_WF\obj\x86\Release\ResolveAssemblyReference.cache
+D:\huh\教學\101-2\智慧電子\智慧電子\上課講義\Lab4_new_sdk_WF\Lab4_new_sdk_WF\obj\x86\Release\Lab4_new_sdk_WF.Form1.resources
+D:\huh\教學\101-2\智慧電子\智慧電子\上課講義\Lab4_new_sdk_WF\Lab4_new_sdk_WF\obj\x86\Release\Lab4_new_sdk_WF.Properties.Resources.resources
+D:\huh\教學\101-2\智慧電子\智慧電子\上課講義\Lab4_new_sdk_WF\Lab4_new_sdk_WF\obj\x86\Release\GenerateResource.read.1.tlog
+D:\huh\教學\101-2\智慧電子\智慧電子\上課講義\Lab4_new_sdk_WF\Lab4_new_sdk_WF\obj\x86\Release\GenerateResource.write.1.tlog
+D:\huh\教學\101-2\智慧電子\智慧電子\上課講義\Lab4_new_sdk_WF\Lab4_new_sdk_WF\obj\x86\Release\Lab4_new_sdk_WF.exe
+D:\huh\教學\101-2\智慧電子\智慧電子\上課講義\Lab4_new_sdk_WF\Lab4_new_sdk_WF\obj\x86\Release\Lab4_new_sdk_WF.pdb
+C:\Users\win7\Desktop\kinect\Lab4_new_sdk_WF\Lab4_new_sdk_WF\bin\Release\Lab4_new_sdk_WF.exe
+C:\Users\win7\Desktop\kinect\Lab4_new_sdk_WF\Lab4_new_sdk_WF\bin\Release\Lab4_new_sdk_WF.pdb
+C:\Users\win7\Desktop\kinect\Lab4_new_sdk_WF\Lab4_new_sdk_WF\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\win7\Desktop\kinect\Lab4_new_sdk_WF\Lab4_new_sdk_WF\obj\x86\Release\Lab4_new_sdk_WF.Form1.resources
+C:\Users\win7\Desktop\kinect\Lab4_new_sdk_WF\Lab4_new_sdk_WF\obj\x86\Release\Lab4_new_sdk_WF.Properties.Resources.resources
+C:\Users\win7\Desktop\kinect\Lab4_new_sdk_WF\Lab4_new_sdk_WF\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\win7\Desktop\kinect\Lab4_new_sdk_WF\Lab4_new_sdk_WF\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\win7\Desktop\kinect\Lab4_new_sdk_WF\Lab4_new_sdk_WF\obj\x86\Release\Lab4_new_sdk_WF.exe
+C:\Users\win7\Desktop\kinect\Lab4_new_sdk_WF\Lab4_new_sdk_WF\obj\x86\Release\Lab4_new_sdk_WF.pdb
